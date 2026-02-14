@@ -81,8 +81,8 @@ Once the circuit is verified, mount the PCB and transformer inside a non-conduct
 
 <img width="1601" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3f92a7aa-305d-4f81-aeab-bc627c17935d" />
 
-<img width="1936" height="1003" alt="Image" src="https://github.com/user-attachments/assets/f7afcc82-63d1-4329-bceb-70401c15a1be" />
 
+<img width="1723" height="1079" alt="Image" src="https://github.com/user-attachments/assets/252a3e14-5728-41d2-80ba-60cc207e3fe1" />
 
 
 
