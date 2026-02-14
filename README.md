@@ -7,6 +7,8 @@ By Creative For You
 In this project, we are building a high-performance 300W Modified Sine Wave Inverter. This device is designed to convert 12V DC (from a battery) into 220V AC, allowing you to power household appliances like LED bulbs, fans, and chargers during power outages or for off-grid applications. Using the SG3525 PWM IC, this prototype offers a stable frequency and high efficiency compared to simpler transistor-based designs.
 Supplies
 
+<img width="1919" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fbda0e9a-d6b9-4435-8d46-e00a55f09c75" />
+
 Electronics Components:
  * PWM Controller: 1x SG3525 IC (with 16-pin socket)
  * MOSFETs: 2x IRF3205 (High-current switching)
