@@ -22,9 +22,10 @@ Electronics Components:
  * Diodes: 2x 1N4148
  * Potentiometer: 1x 50kΩ (To fine-tune output voltage/frequency)
 
-<img width="1901" height="1080" alt="Image" src="https://github.com/user-attachments/assets /d4a2b8ce-01e5-41f0-9558-5860e31a5ce2" />
 
-<img width="1903" height="1080" alt="Image" src="https://github.com/user-attachments/assets /f18229a8-596e-4e48-abfc-a02b79b856aa" />
+<img width="1901" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d4a2b8ce-01e5-41f0-9558-5860e31a5ce2" />
+gj
+
 
 Tools & Hardware:
  * Custom PCB (Gerber files provided in video description)
