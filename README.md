@@ -24,7 +24,7 @@ Electronics Components:
 
 
 <img width="1901" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d4a2b8ce-01e5-41f0-9558-5860e31a5ce2" />
-gj
+
 
 <img width="1903" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f18229a8-596e-4e48-abfc-a02b79b856aa" />
 
@@ -43,6 +43,12 @@ Start by soldering the components with the lowest profile to keep the board stab
  * Resistors & Diodes: Place the resistors and the 1N4148 diodes.
  * IC Socket: Always use an IC socket for the SG3525. This prevents heat damage to the chip during soldering and allows for easy replacement.
  * Capacitors: Solder the ceramic and electrolytic capacitors. Ensure the polarity of the electrolytic capacitors is correct (the stripe indicates the negative lead).
+
+   <img width="1909" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1d39a6d3-4726-48f1-9799-a647b2270506" />
+
+<img width="1934" height="1080" alt="Image" src="https://github.com/user-attachments/assets/63a059b2-bdba-44ae-8ff3-7ec5317f3bc0" />
+
+<img width="1917" height="1080" alt="Image" src="https://github.com/user-attachments/assets/55216822-7e08-48f7-92b0-0e05ad45fa7f" />
 
 Step 3: Installing the MOSFETs and Heatsinks
 The IRF3205 MOSFETs handle all the current from the battery. At 300W, they will generate significant heat.
