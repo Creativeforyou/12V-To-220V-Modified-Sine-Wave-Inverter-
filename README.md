@@ -38,13 +38,20 @@ Tools & Hardware:
 Step 1: Circuit Design and PCB Preparation
 The heart of this inverter is the SG3525 Pulse Width Modulation (PWM) IC. Unlike simple oscillators, this IC provides a precise frequency (50Hz/60Hz) and dual-channel output to drive the MOSFETs in a "push-pull" configuration.
 For a professional build, it is recommended to use a custom PCB. You can export the Gerber files and order them from a service like JLCPCB. This ensures the high-current traces are thick enough to handle the 300W load without overheating.
+
+High-current projects require thick copper traces. If you are etching your own board, ensure you use a heavy copper weight. If ordering from a fab house like JLCPCB, the standard 1oz copper is usually fine, but you can "tin" the high-current traces with extra solder to increase their current- carrying capacity.
+
+Link: $5 for 5 PCBs and One Stencil, One Gerber File to Order Both
+
+Sign up here to Get Free Coupons: https://jlcpcb.com/?from=JLA
+
+   <img width="1909" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1d39a6d3-4726-48f1-9799-a647b2270506" />
+
 Step 2: Soldering the Small Components
 Start by soldering the components with the lowest profile to keep the board stable:
  * Resistors & Diodes: Place the resistors and the 1N4148 diodes.
  * IC Socket: Always use an IC socket for the SG3525. This prevents heat damage to the chip during soldering and allows for easy replacement.
  * Capacitors: Solder the ceramic and electrolytic capacitors. Ensure the polarity of the electrolytic capacitors is correct (the stripe indicates the negative lead).
-
-   <img width="1909" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1d39a6d3-4726-48f1-9799-a647b2270506" />
 
 <img width="1934" height="1080" alt="Image" src="https://github.com/user-attachments/assets/63a059b2-bdba-44ae-8ff3-7ec5317f3bc0" />
 
