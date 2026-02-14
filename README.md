@@ -86,7 +86,6 @@ Before plugging in expensive appliances, we must test the output:
 Step 6: Final Assembly
 Once the circuit is verified, mount the PCB and transformer inside a non-conductive (plastic or wood) or grounded metal enclosure. Ensure there is adequate ventilation or a small DC fan to keep the MOSFET heatsinks cool during extended use.
 
-<img width="1601" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3f92a7aa-305d-4f81-aeab-bc627c17935d" />
 
 
 <img width="1723" height="1079" alt="Image" src="https://github.com/user-attachments/assets/252a3e14-5728-41d2-80ba-60cc207e3fe1" />
