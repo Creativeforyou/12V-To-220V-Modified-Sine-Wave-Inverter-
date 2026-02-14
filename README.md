@@ -2,7 +2,7 @@
 **DIY Inverter 12V To 220V**
 By Creative For You
 
-https://youtu.be/Quai1bEd-so?si=IxfNSNhRRlh6P8z5
+<img width="1723" height="1079" alt="Image" src="https://github.com/user-attachments/assets/252a3e14-5728-41d2-80ba-60cc207e3fe1" />
 
 In this project, we are building a high-performance 300W Modified Sine Wave Inverter. This device is designed to convert 12V DC (from a battery) into 220V AC, allowing you to power household appliances like LED bulbs, fans, and chargers during power outages or for off-grid applications. Using the SG3525 PWM IC, this prototype offers a stable frequency and high efficiency compared to simpler transistor-based designs.
 Supplies
